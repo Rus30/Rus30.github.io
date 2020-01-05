@@ -1,2 +1,2 @@
 # Rus30.github.io
-For learning
+Try to learn
