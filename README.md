@@ -1,2 +1,2 @@
 # Rus30.github.io
-Эй телочка,хошь меня?
+Try to learn
